@@ -115,3 +115,4 @@ https://eightfold.ai/learn/gartner-prepare-for-the-future-of-ai-agents-in-hr/
 [39] Company announces new self-driving car that could earn you money while you sleep — plus, 3 more big EV news stories
 https://www.thecooldown.com/green-tech/tensor-self-driving-vehicle-robocab-autonomous/
 
+

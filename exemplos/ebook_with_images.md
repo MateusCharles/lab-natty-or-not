@@ -3,4 +3,4 @@
 <img width="1024" height="1536" alt="a32def39-1354-4195-8ba4-817349c6a83e" src="https://github.com/user-attachments/assets/6742d464-4d6f-42ff-af11-da0d48f0f3ac" />
 <img width="1024" height="1536" alt="5dbf7027-16cf-46f2-97f4-88a7032b5c38" src="https://github.com/user-attachments/assets/8dc39a7c-f3dc-492e-939c-983f1426a25f" />
 
-![Imagem realista de um agente de IA ajudando pessoas no dia a dia](images/ideogram-v3.0_Ultra_realistic_cinematic_image_showing_AI_clearly_helping_people_in_everyday_li-0.jpg)
+

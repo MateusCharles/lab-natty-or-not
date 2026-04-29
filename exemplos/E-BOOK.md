@@ -1,6 +1,7 @@
 # Agentes de IA: Como Ter um Funcionário Digital Trabalhando 24 Horas Para Você
 
-![Imagem realista de um agente de IA ajudando pessoas no dia a dia](images/ideogram-v3.0_Ultra_realistic_cinematic_image_showing_AI_clearly_helping_people_in_everyday_li-0.jpg)
+<img width="2048" height="1170" alt="ideogram-v3 0_Ultra_realistic_cinematic_image_showing_AI_clearly_helping_people_in_everyday_li-0 (1)" src="https://github.com/user-attachments/assets/04bf174a-d075-43ec-957a-bfd483f805fc" />
+
 
 ## 1. Introdução
 
@@ -53,7 +54,8 @@ Um agente digital não se cansa e mantém o mesmo padrão de atendimento em toda
 
 Um agente de IA pode **gerenciar sua agenda**: ele coleta informações sobre seus compromissos, verifica a disponibilidade e confirma horários, como fazem as plataformas de barbearias e salões que sugerem profissionais e horários e enviam confirmações rápidas:contentReference[oaicite:25]{index=25}. Graças à integração com calendários (Google Agenda, Outlook), o agente sincroniza todos os eventos para evitar conflitos:contentReference[oaicite:26]{index=26}. Além disso, envia **lembretes inteligentes** e **sugestões de priorização**, para que você se concentre no que realmente importa.
 
-![Ilustração de um agente de IA organizando o dia de uma pessoa](images/a32def39-1354-4195-8ba4-817349c6a83e.png)
+<img width="1024" height="1536" alt="a32def39-1354-4195-8ba4-817349c6a83e" src="https://github.com/user-attachments/assets/36cbb192-96da-4689-8718-e77560e1b0e3" />
+
 
 ### Assistente pessoal
 
@@ -67,7 +69,8 @@ Ferramentas de IA estão revolucionando a gestão de finanças pessoais. Reporta
 
 ### Barbearias e salões
 
-![Agente de IA atendendo clientes em uma barbearia](images/5dbf7027-16cf-46f2-97f4-88a7032b5c38.png)
+<img width="1024" height="1536" alt="5dbf7027-16cf-46f2-97f4-88a7032b5c38" src="https://github.com/user-attachments/assets/da144353-56f0-4d32-b02b-bb48561e304d" />
+
 
 Barbearias que adotam agentes de IA colocam sua **agenda no piloto automático**. A IA coleta o serviço desejado (corte, barba, coloração), sugere profissionais e horários e envia valores com confirmações rápidas:contentReference[oaicite:31]{index=31}. Clientes podem agendar, remarcar ou cancelar pelo WhatsApp ou Instagram a qualquer hora:contentReference[oaicite:32]{index=32}. Os agentes ainda lembram preferências de corte e histórico de visitas, proporcionando um atendimento personalizado:contentReference[oaicite:33]{index=33}. Depoimentos mostram redução de **80 % das tarefas repetitivas** e aumento de clientes:contentReference[oaicite:34]{index=34}.
 
@@ -120,7 +123,8 @@ Criar um agente de IA ficou mais acessível graças a ferramentas no‑code e pl
 
 O WhatsApp é o canal preferido de milhões de brasileiros e pode ser o melhor meio para interagir com seu agente de IA. Para integrá‑lo de forma simples:
 
-![Integração de um agente de IA com um aplicativo de mensagens](images/ff4af48c-0e86-4eb4-8188-3806f55202aa.png)
+<img width="1024" height="1536" alt="ff4af48c-0e86-4eb4-8188-3806f55202aa" src="https://github.com/user-attachments/assets/dbe9ee40-ce03-469f-87a4-6dd108a6d7d7" />
+
 
 1. **Compreenda a API oficial.** A API do WhatsApp Business permite que chatbots agendem horários, enviem lembretes personalizados e confirmem ou cancelem compromissos em tempo real:contentReference[oaicite:53]{index=53}. Ela se integra a calendários como Google Agenda, evitando conflitos de horários:contentReference[oaicite:54]{index=54}.
 2. **Utilize ferramentas prontas.** Plataformas como Duobot e Assistente Smart já oferecem integração com WhatsApp e Instagram, com atendimento 24 h e automação de agendamentos:contentReference[oaicite:55]{index=55}:contentReference[oaicite:56]{index=56}. Outras soluções permitem conectar a API do WhatsApp via n8n, Zapier ou Make, sem codificação.
